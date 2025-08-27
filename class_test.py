@@ -1,3 +1,9 @@
+'''
+Name: Grace Yao
+Date: August 27, 2025
+Name of Program: Lab 1, "Name"
+'''
+
 PI = 3.1415926535897 #all letters in global constant are upper-case w/ _ for spaces
 #names of variables and functions should use lower-case with _ for spaces
 #all lines must be <80 chars
